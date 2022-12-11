@@ -1,11 +1,11 @@
 body{
-    background-color: #F9ED69;
+    background-color: #472183;
     font-family: 'EB-Garamond, serif';
 }
 
 h2{
-    font-size: 2.5rem;
-    color: #6A2C70;
+    font-size: 3rem;
+    color: #82C3EC;
     padding: 5%;
     font-weight: 200;
     font-style: italic;
@@ -14,12 +14,12 @@ h2{
 #Title{
   display: flex;
   justify-content: center;
-  padding: 5% 15%;
+  padding: 3% 15%;
 }
 
 .Heading{
     font-size: 5rem;
-    color: #6A2C70;
+    color: #82C3EC;
     font-weight: 900;
 }
 
